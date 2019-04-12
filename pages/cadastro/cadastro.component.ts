@@ -16,7 +16,7 @@ export class CadastroComponent {
   constructor(public db: AngularFirestore,
               public navCtrl: NavController)
   {
-
+    //TODO: ...
   }
 
 
